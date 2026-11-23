@@ -23,5 +23,5 @@ I bridge hands-on experience managing physical network infrastructure, structure
 ---
 
 ### 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/tu-usuario) *(replace with your LinkedIn URL)*
+- **LinkedIn:** [linkedin.com/in/emmanuel-rodriguez-montano](www.linkedin.com/in/emmanuel-rodriguez-montano)
 - **Location:** Mexico City / State of Mexico (Open to remote work & relocation)
